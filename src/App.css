@@ -1,0 +1,26 @@
+.app {
+  text-align: center;
+}
+
+input {
+  padding: 4px;
+  margin-right: 8px;
+}
+
+
+ul {
+  /* Remove bullet point  */
+  list-style: none;
+}
+
+li {
+  margin: 12px 0;
+}
+
+.my-button {
+  font-size: 10px;
+  margin: 4px 8px;
+  border-radius: 4px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
