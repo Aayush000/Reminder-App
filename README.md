@@ -1,3 +1,4 @@
 # Reminder App
 
-https://github.com/Aayush000/Reminder-App/blob/master/ReminderApp.mp4
+https://user-images.githubusercontent.com/73936484/192114594-852cc751-611e-41d8-adcf-976d2c7a6c50.mp4
+
